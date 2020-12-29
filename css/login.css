@@ -1,0 +1,104 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@keyframes fa-blink { /*efeito para fazer algo piscar*/
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 0; }
+
+
+
+}
+
+
+
+
+
+
+h3{ color: red; display: block; 
+    box-shadow: 1px 1px 38px greenyellow;
+    position: absolute; 
+    font-size: 12pt; 
+    margin: auto; 
+    padding: 4px;
+    text-indent: 10px; 
+    background-color: rgba(20, 192, 92, 0.623); 
+    border: 1px solid white;
+    border-radius: 0.3em;
+    /* propridade do efeito pisca*/
+   -webkit-animation: fa-blink .75s linear infinite;
+   -moz-animation: fa-blink .75s linear infinite;
+   -ms-animation: fa-blink .75s linear infinite;
+   -o-animation: fa-blink .75s linear infinite;
+    animation: fa-blink 5s linear forwards;
+   }
+    
+
+
+
+
+
+
+body{   background-repeat: no-repeat;
+        background-size: 100%;
+        background-image: url("../img/tela.jpg");  
+        font-family: 'Poppins', sans-serif;
+        color: white;
+           }
+
+form#form{     display: block;
+    top: center;
+    left: 300px;
+    position: absolute;
+    margin: auto;
+    background-color: #0000005c;
+    border-radius: 1.5em;
+    padding: 35px;
+    width: 300px;
+}
+form p,h1 {text-align: center;}       
+      
+form a { color: white; font-size: 13px;}
+
+
+
+input{
+    font-size: 15pt ;
+    width: 90%;
+    background: transparent;
+    border-radius: 5em;
+    outline: none;
+    color: white;
+    border: 1px solid white;
+    text-indent: 25px;
+
+}
+
+input[type=submit]{
+
+    background-color: yellowgreen;
+    border-radius: 0em;
+    border:none;
+    margin-top: 20px;
+    cursor:pointer;    padding: 10px 15px;
+}
+
+span.msg-error{
+
+    color: white;
+    border: 1px solid rgba(51, 255, 0, 0.986);
+    font-size: 10pt;
+    font-family: consolas;
+    font-weight: 10;
+    animation: fa-blink 3s ease-in forwards;
+
+background-color: rgba(72, 255, 0, 0.267);
+text-align: center;
+display: block;
+margin: auto;
+margin-top: 1px;
+     
+
+
+
+}
+

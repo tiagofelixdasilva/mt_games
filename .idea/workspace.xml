@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="908195c2-5b06-4971-9e92-d02a2d86698b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/credito2.php" beforeDir="false" afterPath="$PROJECT_DIR$/credito2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/estilo3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jqugTDI7QpK0uellPMqOm8LFH4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="h.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mt_games/h.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.h.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="908195c2-5b06-4971-9e92-d02a2d86698b" name="Default Changelist" comment="" />
+      <created>1604544054402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604544054402</updated>
+      <workItem from="1604544055645" duration="1840000" />
+      <workItem from="1604680966482" duration="512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="0" key="#PHP" timestamp="1604545623645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="0" key="#PHP/0.0.1366.728/-3600.-200.1280.680/-1680.-276.1680.1010@0.0.1366.728" timestamp="1604545623645" />
+    <state x="553" y="84" key="FileChooserDialogImpl" timestamp="1604545618422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="84" key="FileChooserDialogImpl/0.0.1366.728/-3600.-200.1280.680/-1680.-276.1680.1010@0.0.1366.728" timestamp="1604545618422" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604544384563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/-3600.-200.1280.680/-1680.-276.1680.1010@0.0.1366.728" timestamp="1604544384563" />
+    <state x="82" y="0" key="SettingsEditor" timestamp="1604545525885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="82" y="0" key="SettingsEditor/0.0.1366.728/-3600.-200.1280.680/-1680.-276.1680.1010@0.0.1366.728" timestamp="1604545525885" />
+    <state x="463" y="285" width="622" height="287" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1604544665995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="285" width="622" height="287" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728/-3600.-200.1280.680/-1680.-276.1680.1010@0.0.1366.728" timestamp="1604544665995" />
+  </component>
+</project>
